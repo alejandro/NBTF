@@ -8,9 +8,15 @@
     "url": "git://github.com/nirahiel/NBTF.git"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha":"latest"
+  },
   "optionalDependencies": {},
   "engines": {
     "node": "*"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "mocha tests/*.js --reporter spec "
   }
 }

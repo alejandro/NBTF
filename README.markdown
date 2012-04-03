@@ -28,6 +28,14 @@ Issues
  * Since tag names are used as Object keys, some tags names may be not valid Javascript, thus requiring a numeric access.
 
 
+Contribute to NBTF
+------------------
+### Run Tests 
+    
+    > npm test
+    # or
+    > mocha tests/*.js 
+
 _________
 
 Copyright
