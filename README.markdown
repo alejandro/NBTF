@@ -30,11 +30,18 @@ Issues
 
 Contribute to NBTF
 ------------------
-### Run Tests 
+
+    > git clone https://github.com/nirariel/NBTF.git
     
-    > npm test
-    # or
-    > mocha tests/*.js 
+### Running Tests
+
+To run the test suite first invoke the following command within the repo, installing the development dependencies:
+    
+    $ npm install
+
+then run the tests:
+
+    $ npm test
 
 _________
 
