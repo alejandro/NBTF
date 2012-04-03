@@ -28,8 +28,9 @@ Issues
  * Since tag names are used as Object keys, some tags names may be not valid Javascript, thus requiring a numeric access.
 
 
+_________
 
 Copyright
-_________
+---------
 
 This work is licenced under the [WTFPLv2](http://sam.zoy.org/wtfpl/)
